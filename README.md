@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @KryptosLogicAndreas
+- 👋 Hi, I’m Andrew
 - 👀 I’m interested in Coding and Cyber Security
 - 🌱 I’m currently learning C++ and Kali Linux
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me rootblackarch.system@gmail.com
 
 <!---
-KryptosLogicAndreas/KryptosLogicAndreas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I Work at KryptosLogic and Visa Security.
 --->
